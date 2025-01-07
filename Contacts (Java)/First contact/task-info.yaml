@@ -1,0 +1,20 @@
+type: edu
+files:
+  - name: src/contacts/Main.java
+    visible: true
+    learner_created: false
+  - name: test/ContactsTest.java
+    visible: false
+    learner_created: false
+  - name: src/contacts/model/Contact.java
+    visible: true
+    learner_created: true
+  - name: src/contacts/ContactsApp.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/43/stages/228/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 13 Dec 2024 21:15:26 UTC"
+record: 1
